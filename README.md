@@ -1,2 +1,2 @@
 # nft-market-place
-a web 3.0 app the allow the sales of non fungible tokens
+A web 3.0 app the allows the sales of non-fungible tokens Nft for all the network on the blockkchain
